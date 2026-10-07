@@ -151,5 +151,5 @@ com.responsi.gamescope/
 ## Video Penjelasan Kode
 
 ```text
-
+https://youtu.be/2QSdYO0v9z0
 ```
