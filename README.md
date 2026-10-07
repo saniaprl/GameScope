@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="app/src/main/ic_launcher-playstore.png" alt="Logo GameScope" width="160">
+  <img src="app\src\main\res\drawable\app_icon.png" alt="Logo GameScope" width="160">
 </p>
 
 # GameScope
@@ -30,8 +30,8 @@ GameScope adalah aplikasi Android untuk mencari dan mengeksplorasi informasi vid
 |                                      Light Mode                                      |                                     Dark Mode                                      |
 |:------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------:|
 |  <img src="docs/screenshots/light-home.png" alt="GameScope Light Mode" width="300">  |  <img src="docs/screenshots/dark-home.png" alt="GameScope Dark Mode" width="300">  |
-| <img src="docs/screenshots/light-detail.png" alt="GameScope Light Mode" width="300"> | <img src="docs/screenshots/dark-detail.png" alt="GameScope Dark Mode" width="300"> |
-| <img src="docs/screenshots/light-search.png" alt="GameScope Light Mode" width="300"> | <img src="docs/screenshots/dark-search.png" alt="GameScope Dark Mode" width="300"> |
+| <img src="docs/screenshots/light-detail.jpg" alt="GameScope Light Mode" width="300"> | <img src="docs/screenshots/dark-detail.jpg" alt="GameScope Dark Mode" width="300"> |
+| <img src="docs/screenshots/light-search.jpg" alt="GameScope Light Mode" width="300"> | <img src="docs/screenshots/dark-search.jpg" alt="GameScope Dark Mode" width="300"> |
 
 ## Pemenuhan Persyaratan Responsi
 
